@@ -27,7 +27,7 @@ This is a backend API for a todo web-app along with Google OAuth2.0.
 
 ## Functioning
 
-     - Open your web browser and redirect to **http://localhost:8000/login**
+     - Open your web browser and redirect to http://localhost:8000/login
      - After you are logged in head to the POSTMAN application
      - Create an new request
      - In the GET tab type **http://localhost:8000/todos/
