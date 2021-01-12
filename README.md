@@ -20,12 +20,12 @@ This is a backend API for a todo web-app along with Google OAuth2.0.
 
 **_All the functionality are tested using POSTMAN application._**
 
-# Pre-Tasks :
+## Pre-Tasks :
 
      - Create database in MongoDB Atlas and copy the connection url
      - Create a .env file and put the url in a variable of name "DB_URL"
 
-# Functioning
+## Functioning
 
      - Open your web browser and redirect to **http://localhost:8000/login**
      - After you are logged in head to the POSTMAN application
